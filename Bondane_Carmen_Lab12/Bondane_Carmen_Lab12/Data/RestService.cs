@@ -14,7 +14,7 @@ namespace Bondane_Carmen_Lab12.Data
         HttpClient client;
 
         //se va modifica ulterior cu ip-ul si portul corespunzator
-        string RestUrl = "https://192.169.0.8:45455/";
+        string RestUrl = "https://192.168.17.128:45455/";
         public List<ShopList> Items { get; private set; }
         public RestService()
         {

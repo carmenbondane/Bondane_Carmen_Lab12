@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 using Bondane_Carmen_Lab12.Data;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using Bondane_Carmen_Lab12;
 
 
 namespace Bondane_Carmen_Lab12
